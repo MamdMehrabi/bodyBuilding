@@ -1,0 +1,42 @@
+@font-face {
+    font-family: vazir;
+    src: url('Vazirmatn-Regular.ttf');
+}
+
+@font-face {
+    font-family: mikhak-light;
+    src: url('Vazirmatn-Light.ttf');
+}
+
+@font-face {
+    font-family: ubuntu;
+    src: url('Ubuntu-Regular.ttf');
+}
+
+html, body {
+    height: 100vh;
+    font-family: vazir, sans-serif;
+    animation: fade-in 2s;
+}
+
+@keyframes fade-in {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+     opacity: 1;   
+    }
+}
+
+* {
+    font-family: vazir, ubuntu;
+}
+
+.text-h1, .text-h2 {
+    font-family: vazir, ubuntu;
+}
+
+.v-list-item__prepend {
+    width: 32px;
+}
