@@ -1,0 +1,171 @@
+{
+  "app": {
+    "name": "Bashgah Yab"
+  },
+  "nav": {
+    "home": "Home",
+    "clubs": "Clubs",
+    "login": "Login",
+    "register": "Register",
+    "profile": "Profile",
+    "logout": "Logout"
+  },
+  "home": {
+    "hero": {
+      "title": "Bashgah Yab",
+      "subtitle": "Find your ideal sports club",
+      "search": "Search Clubs"
+    },
+    "featured": {
+      "title": "Featured Clubs",
+      "viewAll": "View All Clubs"
+    },
+    "features": {
+      "title": "Bashgah Yab Features",
+      "search": {
+        "title": "Easy Search",
+        "description": "Easily search for sports clubs based on location, sport type, facilities, and price."
+      },
+      "reviews": {
+        "title": "Ratings & Reviews",
+        "description": "View other users' opinions and experiences and share your own."
+      },
+      "booking": {
+        "title": "Online Booking",
+        "description": "Easily book club membership online and make payments."
+      }
+    }
+  },
+  "clubs": {
+    "search": {
+      "title": "Search Sports Clubs",
+      "filters": "Filters",
+      "clearFilters": "Clear Filters",
+      "resultsCount": "{count} clubs found",
+      "noResults": "No clubs found matching your criteria"
+    },
+    "details": {
+      "reviews": "User Reviews",
+      "addReview": "Add Review",
+      "editReview": "Edit Review",
+      "noReviews": "No reviews yet",
+      "booking": "Book Membership",
+      "bookingSuccess": "Your booking has been successfully submitted. We will contact you soon.",
+      "contactInfo": "Contact Information",
+      "location": "Location"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Login to Your Account",
+      "noAccount": "Don't have an account?",
+      "register": "Register"
+    },
+    "register": {
+      "title": "Register",
+      "hasAccount": "Already have an account?",
+      "login": "Login",
+      "userType": "User Type",
+      "regularUser": "Regular User",
+      "clubOwner": "Club Owner"
+    }
+  },
+  "profile": {
+    "title": "User Profile",
+    "editProfile": "Edit Profile",
+    "updateSuccess": "Profile updated successfully",
+    "logout": "Logout",
+    "tabs": {
+      "bookings": "My Bookings",
+      "reviews": "My Reviews"
+    },
+    "noBookings": "You haven't made any bookings yet",
+    "noReviews": "You haven't submitted any reviews yet"
+  },
+  "clubOwner": {
+    "dashboard": {
+      "title": "Club Management Dashboard",
+      "stats": {
+        "clubs": "Clubs",
+        "bookings": "Bookings",
+        "reviews": "Reviews",
+        "rating": "Average Rating"
+      },
+      "quickActions": "Quick Actions",
+      "addClub": "Add New Club",
+      "manageBookings": "Manage Bookings",
+      "viewReviews": "View Reviews",
+      "reports": "Reports",
+      "yourClubs": "Your Clubs",
+      "noClubs": "You haven't registered any clubs yet",
+      "recentBookings": "Recent Bookings",
+      "noBookings": "No bookings yet",
+      "viewAll": "View All"
+    },
+    "addClub": {
+      "title": "Add New Club",
+      "mainInfo": "Main Information",
+      "features": "Features",
+      "images": "Images",
+      "submitSuccess": "Your club has been successfully submitted and is awaiting admin approval.",
+      "submit": "Submit Club"
+    }
+  },
+  "admin": {
+    "dashboard": {
+      "title": "Admin Dashboard",
+      "stats": {
+        "clubs": "Clubs",
+        "pendingApproval": "Pending Approval",
+        "users": "Users",
+        "bookings": "Bookings",
+        "reviews": "Reviews"
+      },
+      "quickActions": "Quick Actions",
+      "approveClubs": "Approve Clubs",
+      "manageUsers": "Manage Users",
+      "reports": "Violation Reports",
+      "statistics": "Statistics & Reports",
+      "recentClubs": "Recent Clubs",
+      "recentUsers": "Recent Users"
+    },
+    "approvals": {
+      "title": "Approve Clubs",
+      "pendingClubs": "Clubs Pending Approval",
+      "allApproved": "All clubs have been approved",
+      "backToDashboard": "Back to Dashboard",
+      "selectClub": "Select a club to view details"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "save": "Save",
+    "cancel": "Cancel",
+    "approve": "Approve",
+    "reject": "Reject",
+    "view": "View",
+    "edit": "Edit",
+    "delete": "Delete",
+    "search": "Search",
+    "city": "City",
+    "sports": "Sports",
+    "facilities": "Facilities",
+    "priceRange": "Price Range",
+    "status": {
+      "approved": "Approved",
+      "pending": "Pending",
+      "rejected": "Rejected"
+    },
+    "payment": {
+      "paid": "Paid",
+      "pending": "Payment Pending"
+    },
+    "roles": {
+      "admin": "Admin",
+      "clubOwner": "Club Owner",
+      "user": "User"
+    }
+  }
+}
